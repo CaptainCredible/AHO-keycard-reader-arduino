@@ -4,7 +4,7 @@ This is the code for the arduino connected to the machine you want to control ac
 
 connections:
 
-SDA -> 10
+SDA -> 10 /n
 SCK -> 15
 MOSI -> 16
 MISO -> 14
